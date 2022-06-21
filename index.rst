@@ -51,3 +51,10 @@ for our Build, Software, and CAD divisions, as well as our Safety initiatives.
    :caption: Safety
 
    docs/safety/Placeholder
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Advanced Software
+
+   docs/dsa/index
