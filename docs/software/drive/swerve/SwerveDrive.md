@@ -10,7 +10,7 @@ Team 1640's swerve drive, for extra info: https://team1640.com/wiki/index.php/Sw
 
 - MUCH easier to build
 - More intuitive to drive:
-    -Instead of having to think from the robot’s perspective, swerve drive allows the driver to think from their own perspective. In other words, swerve drive is field-oriented.
+    -Instead of having to think from the robot’s perspective, swerve drive allows the driver to think from their own perspective. In other words, swerve drive is **field-oriented**.
     -Swerve drive allows two people, one piloting with the other shooting/picking up cargo/etc., to drive at the same time more efficiently.
 
 To code swerve drive, we use 2D vectors. A **vector** represents a direction and magnitude in the X-Y plane. We denote vectors by a point on the plane (x, y). The vector is the path on the plane from the origin to (x, y). In swerve drive, each of the four wheels on the robot has a position vector.
