@@ -6,4 +6,4 @@ Drive Bases
    :titlesonly:
 
    DiffDrive
-   SwerveDrive
+   swerve/index
