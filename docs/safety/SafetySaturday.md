@@ -1,4 +1,4 @@
-# SAFETY SATURDAY
+# Safety Saturday
 
 [Safety Slideshow](https://docs.google.com/presentation/d/1g8mlsb3K9MKYTZI6F9kqDqxrG8BJum4SRQQ2DSUbaLQ/edit?usp=sharing)
 

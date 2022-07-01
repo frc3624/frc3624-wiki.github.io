@@ -51,7 +51,12 @@ for our Build, Software, and CAD divisions, as well as our Safety initiatives.
    :hidden:
    :caption: Safety
 
-   docs/safety/index
+   docs/safety/Resources
+   docs/safety/FirstAid
+   docs/safety/Precautions
+   docs/safety/SafetySaturday
+   docs/safety/BatterySpills
+   docs/safety/BoardsAndPictures
 
 .. toctree::
    :maxdepth: 1

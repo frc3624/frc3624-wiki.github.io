@@ -1,4 +1,5 @@
-# First Aid Kits: (random general items now from online; will be updated when available):
+# First Aid Kits 
+**(random general items now from online; will be updated when available):**
 - adhesive bandages
 - adhesive tape
 - antihistamine

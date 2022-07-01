@@ -1,4 +1,6 @@
-# Some safety precautions we take:
+# Precautions
+
+## Some safety precautions we take:
 - Everything is below 48 volts to avoid fire hazards
 - We are cautious of daisy chaining
 - Everyone has to go through a mandatory safety training in the beginning of the year
