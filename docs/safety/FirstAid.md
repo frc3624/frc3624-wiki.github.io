@@ -1,0 +1,25 @@
+# First Aid Kits 
+**(random general items now from online; will be updated when available):**
+- adhesive bandages
+- adhesive tape
+- antihistamine
+- antiseptics
+- aspirin or ibuprofen
+- cleaning wipes
+- disposable sterile gloves
+- distilled water for cleaning wounds
+- dressings
+- emergency blanket
+- eye wash
+- insect bites and sting relief
+- instant ice packs
+- painkillers such as paracetamol
+- plasters
+- rash cream (e.g. hydrocortisone, calendula)
+- rolled bandages
+- safety pins
+- scissors
+- splinter remover
+- thermometer
+- triangular bandages
+- tweezers

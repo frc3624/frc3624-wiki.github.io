@@ -2,7 +2,7 @@
 
 [Official WPILib Documentation](https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html)
 
-For extra info [Team 1640's Swerve](https://team1640.com/wiki/index.php/Swerve_Central)
+For extra info: [Team 1640's Swerve](https://team1640.com/wiki/index.php/Swerve_Central)
 
 **Swerve drive** is a system alternative to West Coast Drive in which two joysticks are used: one to control moving horizontally and vertically, and one for rotation. This has numerous advantages:
 
