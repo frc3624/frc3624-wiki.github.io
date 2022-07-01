@@ -51,7 +51,7 @@ for our Build, Software, and CAD divisions, as well as our Safety initiatives.
    :hidden:
    :caption: Safety
 
-   docs/safety/Placeholder
+   docs/safety/index
 
 .. toctree::
    :maxdepth: 1
