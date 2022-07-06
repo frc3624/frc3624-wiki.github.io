@@ -45,6 +45,8 @@ for our Build, Software, and CAD divisions, as well as our Safety initiatives.
    docs/cad/fusion/index
    docs/cad/practice/index
    docs/cad/organization/index
+   docs/cad/conventions/index
+   docs/cad/part_websites/index
 
 .. toctree::
    :maxdepth: 1

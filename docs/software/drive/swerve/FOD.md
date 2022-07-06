@@ -5,7 +5,7 @@ Field Oriented Drive is a radically different driving style, and it is hard to e
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/PKNo7sZWKA0"
+    src="https://www.youtube.com/watch?v=PKNo7sZWKA0"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen

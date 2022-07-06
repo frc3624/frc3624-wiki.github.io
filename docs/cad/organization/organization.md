@@ -1,4 +1,4 @@
-# Fusion 360 General Organization
+# Introduction
 
 When it comes to doing any CAD work on our team, it is imperative that all the CAD files and the timelines keeping track of how they were made are neatly organized.
 This ensures a smooth workflow, facilitates cooperation, and allows for team members to go back and modify any feature of a component or assembly with ease. It also 

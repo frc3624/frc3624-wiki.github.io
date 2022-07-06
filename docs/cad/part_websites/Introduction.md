@@ -1,4 +1,4 @@
-# Part Websites
+# Introduction
 
 When we CAD using parts that we bought off the internet, we download CAD models provided by the manufacturer's websited. Below is a list of websites where we download CAD files from.
 
