@@ -9,5 +9,7 @@ Machines
    BandSaw
    ChopSaw
    Cricut
+   Router
+   RivetGun
    CNC
    3DP

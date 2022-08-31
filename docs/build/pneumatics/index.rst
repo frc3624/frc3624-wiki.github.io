@@ -1,7 +1,7 @@
 Pneumatics
 ==========
 
-This is Aayush Prakash's section
+This is Bennett's section
 
 .. toctree::
    :maxdepth: 1
